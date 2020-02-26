@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FastAC_RC_CMP", "FastAC_RC_CMP.vcxproj", "{FED2A392-EE94-4200-B082-EA7EBFB8EF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED2A392-EE94-4200-B082-EA7EBFB8EF62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FED2A392-EE94-4200-B082-EA7EBFB8EF62}.Debug|Win32.Build.0 = Debug|Win32
+		{FED2A392-EE94-4200-B082-EA7EBFB8EF62}.Release|Win32.ActiveCfg = Release|Win32
+		{FED2A392-EE94-4200-B082-EA7EBFB8EF62}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76CC6254-B8BB-4867-B197-79C8604EFF4A}
+	EndGlobalSection
+EndGlobal
